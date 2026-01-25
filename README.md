@@ -10,12 +10,12 @@
 
 <div align="center">
   <br />
-    <a href="YOUR_LIVE_DEMO_LINK_HERE" target="_blank">
+    <a href="https://awwwards-website-one.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/View_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
     </a>
   <br />
   <br />
-  <img src="https://via.placeholder.com/1200x600?text=Awwwards+Website+Clone" alt="Project Screenshot" width="100%" />
+  <!-- <img src="https://via.placeholder.com/1200x600?text=Awwwards+Website+Clone" alt="Project Screenshot" width="100%" /> -->
 </div>
 
 ---
